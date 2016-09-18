@@ -1,0 +1,10 @@
+usaskcampus
+8
+buildings/ground/ground.model 1 1 1 0 0 0 0 0 0 0 0 0
+buildings/agriculture/agriculture.model 0.4 0.4 0.4 0 0 0 0 0 0 50 -2 -60
+buildings/cls/cls.model 1.5 1.5 1.5 0 0 0 0 0 0 70 0 -30
+buildings/murray/murray.model 1 1 1 0 0 0 0 0 0 0 0 0
+buildings/pac/pac.model 4 4 4 0 0 0 0 0 0 100 0 0
+buildings/quapelle/quapelle.model 2 2 2 0 0 0 0 0 0 40 0 -12
+buildings/stm/stm.model 2 2 2 0 1 0 0 30 0 30 0 20
+buildings/thorv/thorv.model 1.2 1.2 1.2 0 0 0 0 0 0 0 0 -40
